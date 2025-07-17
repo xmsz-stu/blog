@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [MacOS安装iOS应用](README.md)
